@@ -9,6 +9,15 @@ export const projectsSection: ProjectsSectionType = {
     projects: [
         {
             id: getId(),
+            name: 'Terraform AWS Production Infrastructure',
+            url: 'https://maheshbabu-devops.github.io/Terraform-AWS-Production-Infra/',
+            repo: 'https://github.com/MaheshBabu-DevOps/Terraform-AWS-Production-Infra',
+            img: '/project-img/new-project.jpg',
+            year: currentYear,
+            tags: ['Terraform', 'AWS', 'GitHub Actions', 'IaC'],
+        },
+        {
+            id: getId(),
             name: 'More Projects Coming Soon',
             url: 'coming-soon',
             repo: 'https://github.com/MaheshBabu-DevOps',
