@@ -13,7 +13,7 @@ I'm a **Java Full Stack Developer** with hands-on internship experience in devel
 
 ### 🔗 Connect With Me
 
-- **Portfolio:** [Coming Soon on Vercel]
+- **Portfolio:** [nisha-hanamashetty.vercel.app](https://nisha-hanamashetty.vercel.app)
 - **Email:** nishahanamashetty678@gmail.com
 - **LinkedIn:** [linkedin.com/in/nisha-hanamashetty](https://linkedin.com/in/nisha-hanamashetty)
 - **GitHub:** [github.com/Nisha640](https://github.com/Nisha640)
