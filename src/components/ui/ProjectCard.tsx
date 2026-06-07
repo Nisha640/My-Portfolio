@@ -70,7 +70,7 @@ const ProjectCard = ({
                 className="block duration-200 hover:text-accent"
                 target="_blank"
               >
-                <ClientIcon icon="ci:external-link" width={22} height={22} />
+                <ClientIcon icon="tabler:world-www" width={22} height={22} />
               </a>
             </div>
           </div>
