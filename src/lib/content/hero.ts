@@ -3,15 +3,15 @@ import { resumeFileName } from '@/lib/utils/config'
 
 export const heroSection: HeroSectionType = {
     subtitle: 'Hi, my name is',
-    title: 'Mahesh Babu',
+    title: 'Nisha Hanamashetty',
     tagline: '',
-    description: "I'm an AWS DevOps Engineer with 3.7 years of experience in CI/CD automation, cloud infrastructure, and containerized environments.",
+    description: "I'm a Java Full Stack Developer building responsive web applications with Java, Spring Boot, JDBC, MySQL, and modern front-end technologies, with hands-on experience in REST APIs and database integration.",
     specialText: "",
     items:[
-        'AWS DevOps Engineer',
-        'Cloud Engineer',
-        'DevOps Engineer',
-        'Computer Vision Engineer (AI)',
+        'Java Full Stack Developer',
+        'Backend Developer',
+        'Spring Boot Developer',
+        'Web Developer',
       ],
     cta: {
         title: 'see my resume',

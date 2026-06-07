@@ -3,41 +3,34 @@ import { AboutSectionType } from '@/lib/types/sections'
 export const aboutSection: AboutSectionType = {
     title: 'about me',
     list: {
-    title: "Currently, I'm working with the following technologies:",
+    title: "Here are the technologies I work with:",
     items: [
-        // Plan
-        'Jira',
-        // Code
-        'Git',
-        'GitHub Actions',
-        // Build
-        'Jenkins',
-        // Test / Security
-        'Trivy',
-        'CodeAnt AI',
-        // Package
-        'Docker',
-        'Helm',
-        // Deploy / Orchestrate
-        'Kubernetes (EKS, K3s)',
-        'Rancher',
-        'Terraform',
-        // Cloud
-        'AWS',
-        // Monitor
-        'Prometheus',
-        'Grafana',
-        // Infrastructure
-        'NGINX',
-        'PostgreSQL',
-        'Redis',
-        // Programming
+        // Languages
+        'Java',
         'Python',
-        'Bash',
-        // AI & Annotation
-        'OpenCV',
-        'LabelMe',
-        'CVAT',
+        'SQL',
+        'JavaScript',
+        // Back-end
+        'Core Java',
+        'Spring Boot',
+        'JDBC',
+        'Servlets',
+        'Hibernate',
+        'REST APIs',
+        // Front-end
+        'HTML',
+        'CSS',
+        'Bootstrap',
+        // Database
+        'MySQL',
+        // Tools & Platforms
+        'Git',
+        'GitHub',
+        'VS Code',
+        'Eclipse IDE',
+        // Cloud & OS
+        'AWS (Basics)',
+        'Linux',
       ],
     },
     img: '/mypic.jpg',

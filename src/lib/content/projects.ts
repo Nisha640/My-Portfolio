@@ -9,40 +9,33 @@ export const projectsSection: ProjectsSectionType = {
     projects: [
         {
             id: getId(),
-            name: 'Kubernetes Helm Microservices Platform',
-            url: 'https://maheshbabu-devops.github.io/Kubernetes-Helm-Microservices/',
-            repo: 'https://github.com/MaheshBabu-DevOps/Kubernetes-Helm-Microservices',
-            img: '/project-img/new-project.jpg',
-            year: currentYear,
-            tags: ['Kubernetes', 'Helm', 'Docker', 'Prometheus'],
-        },
-        {
-            id: getId(),
-            name: 'Terraform AWS Production Infrastructure',
-            url: 'https://maheshbabu-devops.github.io/Terraform-AWS-Production-Infra/',
-            repo: 'https://github.com/MaheshBabu-DevOps/Terraform-AWS-Production-Infra',
-            img: '/project-img/new-project.jpg',
-            year: currentYear,
-            tags: ['Terraform', 'AWS', 'GitHub Actions', 'IaC'],
+            name: 'Job Portal Application',
+            url: 'coming-soon',
+            // TODO: replace with your actual repository URL
+            repo: 'https://github.com/nisha-hanamashetty',
+            img: '/project-img/p1-job-portal.png',
+            year: 2024,
+            tags: ['Java', 'Servlets', 'JDBC', 'MySQL'],
         },
         {
             id: getId(),
             name: 'More Projects Coming Soon',
             url: 'coming-soon',
-            repo: 'https://github.com/MaheshBabu-DevOps',
+            // TODO: replace with your actual GitHub profile URL
+            repo: 'https://github.com/nisha-hanamashetty',
             img: '/project-img/new-project.jpg',
             year: currentYear,
-            tags: ['DevOps', 'AWS', 'Kubernetes'],
+            tags: ['Java', 'Spring Boot', 'MySQL'],
         },
     // Add your projects below:
     // {
     //     id: getId(),
     //     name: 'Project Name',
     //     url: 'https://live-demo-link.com/',
-    //     repo: 'https://github.com/MaheshBabu-DevOps/repo-name',
+    //     repo: 'https://github.com/nisha-hanamashetty/repo-name',
     //     img: '/project-img/your-image.png',
     //     year: 2024,
-    //     tags: ['Jenkins', 'Docker', 'AWS'],
+    //     tags: ['Java', 'Spring Boot', 'MySQL'],
     // },
     ],
 };

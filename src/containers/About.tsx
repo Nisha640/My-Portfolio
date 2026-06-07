@@ -24,18 +24,17 @@ const About = () => {
       <main className="flex flex-col items-center gap-16 lg:items-start lg:flex-row">
         <div className="space-y-4 lg:w-3/5">
           <p>
-            Hi, I'm Mahesh. I have worked across autonomous mobile robotics and
-            defense sectors, building reliable CI/CD pipelines,
-            managing Docker containers and Kubernetes clusters, and automating
-            cloud infrastructure on AWS. I also have hands-on experience in
-            computer vision workflows, including image annotation, image
-            segmentation, and model training.
+            Hi, I'm Nisha. I'm a Java Full Stack Developer with hands-on
+            internship experience building responsive web applications using
+            Java, Spring Boot, JDBC, MySQL, HTML, CSS, and JavaScript. I enjoy
+            working across the stack — implementing CRUD operations, REST APIs,
+            and database integration following MVC architecture principles.
           </p>
           <p>
             I'm open to roles such as:
             <br />
             <i className="text-accent">
-              Cloud Engineer, DevOps Engineer, Computer Vision Engineer (AI).
+              Java Full Stack Developer, Backend Developer, Web Developer.
             </i>
           </p>
 

@@ -7,33 +7,34 @@
 import { StringKeyValueType } from '../types';
 
 export const socialLinks: StringKeyValueType = {
-  github: 'https://github.com/MaheshBabu-DevOps',
-  linkedin: 'https://www.linkedin.com/in/maheshbabu-devops/',
+  // TODO: replace with your actual GitHub & LinkedIn profile URLs
+  github: 'https://github.com/nisha-hanamashetty',
+  linkedin: 'https://www.linkedin.com/in/nisha-hanamashetty/',
 };
 
 export const author = {
-  name: 'Mahesh Babu',
-  email: 'maheshtemmanaboina@gmail.com',
+  name: 'Nisha Hanamashetty',
+  email: 'nishahanamashetty678@gmail.com',
 };
 
 export const seoData = {
-  title: 'Mahesh Babu | AWS DevOps Engineer',
+  title: 'Nisha Hanamashetty | Java Full Stack Developer',
   description:
-    'Mahesh Babu is an AWS DevOps Engineer with 3.7 years of experience in CI/CD automation, cloud infrastructure, and containerized environments.',
+    'Nisha Hanamashetty is a Java Full Stack Developer skilled in Java, Spring Boot, JDBC, MySQL, and front-end technologies, building responsive web applications with REST APIs and database integration.',
   author: author.name,
   image: '/mypic.jpg',
-  url: 'https://maheshbabu-devops.vercel.app/',
+  url: 'https://nisha-hanamashetty.vercel.app/',
   keywords: [
-    'Mahesh Babu',
-    'MaheshBabu',
-    'MaheshBabu DevOps',
-    'Mahesh Babu Portfolio',
-    'AWS DevOps Engineer',
-    'DevOps Engineer',
-    'Jenkins',
-    'Docker',
-    'Kubernetes',
-    'AWS',
-    'Bangalore',
+    'Nisha Hanamashetty',
+    'Nisha Hanamashetty Portfolio',
+    'Java Full Stack Developer',
+    'Full Stack Developer',
+    'Java',
+    'Spring Boot',
+    'JDBC',
+    'Hibernate',
+    'MySQL',
+    'REST API',
+    'Bengaluru',
   ],
 };

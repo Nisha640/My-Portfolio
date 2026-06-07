@@ -53,8 +53,8 @@ const ComingSoonPage = () => {
           className="text-xs sm:text-sm text-dark-3"
         >
           Built with ❤️ by{' '}
-          <Link href="https://www.linkedin.com/in/maheshbabu-devops/" className="text-accent hover:underline">
-            Mahesh Babu
+          <Link href="https://www.linkedin.com/in/nisha-hanamashetty/" className="text-accent hover:underline">
+            Nisha Hanamashetty
           </Link>
         </motion.p>
       </Wrapper>
