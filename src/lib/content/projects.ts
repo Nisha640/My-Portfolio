@@ -12,7 +12,7 @@ export const projectsSection: ProjectsSectionType = {
             name: 'Job Portal Application',
             url: 'coming-soon',
             // TODO: replace with your actual repository URL
-            repo: 'https://github.com/nisha-hanamashetty',
+            repo: 'https://github.com/Nisha640',
             img: '/project-img/p1-job-portal.png',
             year: 2024,
             tags: ['Java', 'Servlets', 'JDBC', 'MySQL'],
@@ -22,7 +22,7 @@ export const projectsSection: ProjectsSectionType = {
             name: 'More Projects Coming Soon',
             url: 'coming-soon',
             // TODO: replace with your actual GitHub profile URL
-            repo: 'https://github.com/nisha-hanamashetty',
+            repo: 'https://github.com/Nisha640',
             img: '/project-img/new-project.jpg',
             year: currentYear,
             tags: ['Java', 'Spring Boot', 'MySQL'],
