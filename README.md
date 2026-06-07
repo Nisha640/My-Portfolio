@@ -15,7 +15,7 @@ I'm a **Java Full Stack Developer** with hands-on internship experience in devel
 
 - **Portfolio:** [nisha-hanamashetty.vercel.app](https://nisha-hanamashetty.vercel.app)
 - **Email:** nishahanamashetty678@gmail.com
-- **LinkedIn:** [linkedin.com/in/nisha-hanamashetty](https://linkedin.com/in/nisha-hanamashetty)
+- **LinkedIn:** [linkedin.com/in/nisha-hanamashetty-3a98712b6](https://www.linkedin.com/in/nisha-hanamashetty-3a98712b6/)
 - **GitHub:** [github.com/Nisha640](https://github.com/Nisha640)
 
 ## 🛠️ Tech Stack

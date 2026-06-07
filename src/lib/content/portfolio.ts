@@ -9,7 +9,7 @@ import { StringKeyValueType } from '../types';
 export const socialLinks: StringKeyValueType = {
   // TODO: replace with your actual GitHub & LinkedIn profile URLs
   github: 'https://github.com/nisha-hanamashetty',
-  linkedin: 'https://www.linkedin.com/in/nisha-hanamashetty/',
+  linkedin: 'https://www.linkedin.com/in/nisha-hanamashetty-3a98712b6/',
 };
 
 export const author = {
