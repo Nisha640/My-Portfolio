@@ -17,6 +17,15 @@ export const projectsSection: ProjectsSectionType = {
         },
         {
             id: getId(),
+            name: 'Movie App',
+            url: 'https://github.com/Nisha640/movieapp',
+            repo: 'https://github.com/Nisha640/movieapp',
+            img: '/project-img/new-project.jpg',
+            year: 2024,
+            tags: ['HTML', 'CSS', 'JavaScript'],
+        },
+        {
+            id: getId(),
             name: 'Student Grade Management System',
             url: 'https://github.com/Nisha640/student-grade-manager',
             repo: 'https://github.com/Nisha640/student-grade-manager',
