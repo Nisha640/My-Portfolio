@@ -10,7 +10,7 @@ export const projectsSection: ProjectsSectionType = {
         {
             id: getId(),
             name: 'Task Manager App',
-            url: 'https://nisha640.github.io/task-manager-app/',
+            url: 'https://github.com/Nisha640/task-manager-app',
             repo: 'https://github.com/Nisha640/task-manager-app',
             img: '/project-img/new-project.jpg',
             year: 2025,
